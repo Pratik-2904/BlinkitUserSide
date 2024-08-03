@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlinkitUserClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_image">Intro Image</string>
+    <string name="intro_icon">Intro Icon</string>
+    <string name="india_s_last_minute_app">India\'s last minute app</string>
+    <string name="login_or_signup">Login or SignUp</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="Continue">Continue</string>
+
+</resources>
